@@ -37,7 +37,9 @@
 - [묻기 위해 묻지 말고, 그냥 물어보세요](https://dontasktoask.com/ko/)  
 - [자바스크립트 v8 엔진의 가비지 컬렉션 동작 방식](https://fe-developers.kakaoent.com/2022/220519-garbage-collection/)
 
-## Contributors
+<br/>
+
+## 👨‍👨‍👧‍👦 도움을 주신 분들
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
