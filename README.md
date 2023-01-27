@@ -37,6 +37,8 @@
 - [묻기 위해 묻지 말고, 그냥 물어보세요](https://dontasktoask.com/ko/)  
 - [자바스크립트 v8 엔진의 가비지 컬렉션 동작 방식](https://fe-developers.kakaoent.com/2022/220519-garbage-collection/)
 - [함수형 프로그래밍이 중요한 이유](https://parksb.github.io/papers-i-love/why-functional-programming-matters.html)
+- [지나가던 개발 zigae님 블로그 | React와 프론트엔드 개발에 관련된 블로그](https://www.zigae.com/)
+- [Bang9Dev 블로그 | React Native 관련된 블로그](https://velog.io/@bang9dev)
 
 <br/>
 
