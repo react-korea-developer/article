@@ -6,9 +6,20 @@
   "contributorsPerLine": 7,
   "contributorsSortAlphabetically": false,
   "skipCi": true,
-  "contributors": [],
+  "contributors": [
+    {
+      "login": "Jeontaeyun",
+      "name": "Stark",
+      "avatar_url": "https://avatars.githubusercontent.com/u/34877121?v=4",
+      "profile": "https://dododot.net/magazine",
+      "contributions": [
+        "data"
+      ]
+    }
+  ],
   "projectName": "article",
   "projectOwner": "react-korea-developer",
   "repoType": "github",
-  "repoHost": "https://github.com"
+  "repoHost": "https://github.com",
+  "commitConvention": "angular"
 }
