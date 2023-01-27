@@ -39,6 +39,8 @@
 - [함수형 프로그래밍이 중요한 이유](https://parksb.github.io/papers-i-love/why-functional-programming-matters.html)
 - [지나가던 개발 zigae님 블로그 | React와 프론트엔드 개발에 관련된 블로그](https://www.zigae.com/)
 - [Bang9Dev 블로그 | React Native 관련된 블로그](https://velog.io/@bang9dev)
+- [react-query 시작부터 적용까지](https://saengmotmi.netlify.app/react/react-query/)
+- [컴포넌트를 잘 만드는 방법](https://ms3864.tistory.com/m/433)
 
 <br/>
 
