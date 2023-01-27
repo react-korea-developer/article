@@ -1,0 +1,14 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "contributorsPerLine": 7,
+  "contributorsSortAlphabetically": false,
+  "skipCi": true,
+  "contributors": [],
+  "projectName": "article",
+  "projectOwner": "react-korea-developer",
+  "repoType": "github",
+  "repoHost": "https://github.com"
+}
