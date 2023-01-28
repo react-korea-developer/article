@@ -41,7 +41,7 @@
 - [Bang9Dev 블로그 | React Native 관련된 블로그](https://velog.io/@bang9dev)
 - [react-query 시작부터 적용까지](https://saengmotmi.netlify.app/react/react-query/)
 - [컴포넌트를 잘 만드는 방법](https://ms3864.tistory.com/m/433)
-
+- [변경에 유연한 컴포넌트] (https://jbee.io/web/components-should-be-flexible/)
 <br/>
 
 ## 👨‍👨‍👧‍👦 도움을 주신 분들
