@@ -42,6 +42,7 @@
 - [react-query 시작부터 적용까지](https://saengmotmi.netlify.app/react/react-query/)
 - [컴포넌트를 잘 만드는 방법](https://ms3864.tistory.com/m/433)
 - [변경에 유연한 컴포넌트](https://jbee.io/web/components-should-be-flexible/)
+- [React Query 개념 및 정리](https://kyounghwan01.github.io/blog/React/react-query/basic/#%E1%84%89%E1%85%A1%E1%84%8B%E1%85%AD%E1%86%BC%E1%84%92%E1%85%A1%E1%84%82%E1%85%B3%E1%86%AB-%E1%84%8B%E1%85%B5%E1%84%8B%E1%85%B2)
 
 <br/>
 
