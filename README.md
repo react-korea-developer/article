@@ -56,6 +56,7 @@
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Terrorboy"><img src="https://avatars.githubusercontent.com/u/5427199?v=4?s=100" width="100px;" alt="Terrorboy"/><br /><sub><b>Terrorboy</b></sub></a><br /><a href="#data-Terrorboy" title="Data">🔣</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/AustinKimDev"><img src="https://avatars.githubusercontent.com/u/55818419?v=4?s=100" width="100px;" alt="Austin Kim"/><br /><sub><b>Austin Kim</b></sub></a><br /><a href="#data-AustinKimDev" title="Data">🔣</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/GarmaSong"><img src="https://avatars.githubusercontent.com/u/61130851?v=4?s=100" width="100px;" alt="viva-galmi"/><br /><sub><b>viva-galmi</b></sub></a><br /><a href="#data-GarmaSong" title="Data">🔣</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/jsleemaster"><img src="https://avatars.githubusercontent.com/u/75053960?v=4?s=100" width="100px;" alt="이순명"/><br /><sub><b>이순명</b></sub></a><br /><a href="#data-jsleemaster" title="Data">🔣</a></td>
     </tr>
   </tbody>
 </table>
