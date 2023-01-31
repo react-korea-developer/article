@@ -44,6 +44,8 @@
 - [변경에 유연한 컴포넌트](https://jbee.io/web/components-should-be-flexible/)
 - [React Query 개념 및 정리](https://kyounghwan01.github.io/blog/React/react-query/basic/#%E1%84%89%E1%85%A1%E1%84%8B%E1%85%AD%E1%86%BC%E1%84%92%E1%85%A1%E1%84%82%E1%85%B3%E1%86%AB-%E1%84%8B%E1%85%B5%E1%84%8B%E1%85%B2)
 - [SWC 이용해서 React + Webpack 세팅해보기](https://helloinyong.tistory.com/347)
+- [(번역) 레이아웃 알고리즘 이해하기](https://junghan92.medium.com/%EB%B2%88%EC%97%AD-%EB%A0%88%EC%9D%B4%EC%95%84%EC%9B%83-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-baed8b1eca5f)
+- [악명 높은 CORS 개념 & 해결법 - 정리 끝판왕](https://inpa.tistory.com/entry/WEB-%F0%9F%93%9A-CORS-%F0%9F%92%AF-%EC%A0%95%EB%A6%AC-%ED%95%B4%EA%B2%B0-%EB%B0%A9%EB%B2%95-%F0%9F%91%8F)
 
 <br/>
 
