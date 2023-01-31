@@ -65,6 +65,9 @@
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/myungsangBaek"><img src="https://avatars.githubusercontent.com/u/78290030?v=4?s=100" width="100px;" alt="Han"/><br /><sub><b>Han</b></sub></a><br /><a href="#data-myungsangBaek" title="Data">🔣</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://programmerplum.tistory.com/"><img src="https://avatars.githubusercontent.com/u/98972333?v=4?s=100" width="100px;" alt="Lee-SoYoon"/><br /><sub><b>Lee-SoYoon</b></sub></a><br /><a href="#data-99dlthdbs" title="Data">🔣</a></td>
     </tr>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/granen32"><img src="https://avatars.githubusercontent.com/u/69453130?v=4?s=100" width="100px;" alt="Granen"/><br /><sub><b>Granen</b></sub></a><br /><a href="#data-granen32" title="Data">🔣</a></td>
+    </tr>
   </tbody>
 </table>
 
