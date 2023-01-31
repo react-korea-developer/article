@@ -46,6 +46,7 @@
 - [SWC 이용해서 React + Webpack 세팅해보기](https://helloinyong.tistory.com/347)
 - [(번역) 레이아웃 알고리즘 이해하기](https://junghan92.medium.com/%EB%B2%88%EC%97%AD-%EB%A0%88%EC%9D%B4%EC%95%84%EC%9B%83-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-baed8b1eca5f)
 - [악명 높은 CORS 개념 & 해결법 - 정리 끝판왕](https://inpa.tistory.com/entry/WEB-%F0%9F%93%9A-CORS-%F0%9F%92%AF-%EC%A0%95%EB%A6%AC-%ED%95%B4%EA%B2%B0-%EB%B0%A9%EB%B2%95-%F0%9F%91%8F)
+- [AWS CloundFront + OAC 이용하는 방법](https://bosungtea9416.tistory.com/entry/AWS-CloudFront-OAI%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%A0%9C%ED%95%9C)
 
 <br/>
 
@@ -64,6 +65,8 @@
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/jsleemaster"><img src="https://avatars.githubusercontent.com/u/75053960?v=4?s=100" width="100px;" alt="이순명"/><br /><sub><b>이순명</b></sub></a><br /><a href="#data-jsleemaster" title="Data">🔣</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/myungsangBaek"><img src="https://avatars.githubusercontent.com/u/78290030?v=4?s=100" width="100px;" alt="Han"/><br /><sub><b>Han</b></sub></a><br /><a href="#data-myungsangBaek" title="Data">🔣</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://programmerplum.tistory.com/"><img src="https://avatars.githubusercontent.com/u/98972333?v=4?s=100" width="100px;" alt="Lee-SoYoon"/><br /><sub><b>Lee-SoYoon</b></sub></a><br /><a href="#data-99dlthdbs" title="Data">🔣</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/granen32”><img src="https://avatars.githubusercontent.com/u/69453130?v=4" width="100px;" alt=“granen32”/><br /><sub><b>granen32</b></sub></a><br /><a href="#data-granen32" title="Data">🔣</a>
+</td>
     </tr>
   </tbody>
 </table>
