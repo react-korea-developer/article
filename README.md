@@ -47,7 +47,7 @@
 - [(번역) 레이아웃 알고리즘 이해하기](https://junghan92.medium.com/%EB%B2%88%EC%97%AD-%EB%A0%88%EC%9D%B4%EC%95%84%EC%9B%83-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-baed8b1eca5f)
 - [악명 높은 CORS 개념 & 해결법 - 정리 끝판왕](https://inpa.tistory.com/entry/WEB-%F0%9F%93%9A-CORS-%F0%9F%92%AF-%EC%A0%95%EB%A6%AC-%ED%95%B4%EA%B2%B0-%EB%B0%A9%EB%B2%95-%F0%9F%91%8F)
 - [AWS CloundFront - OAC 로 origin 보호하기](https://aws.amazon.com/ko/blogs/korea/amazon-cloudfront-introduces-origin-access-control-oac/)
-- [JS Design-pattern 번역본](https://patterns-dev-kr.github.io/)
+- [JS Design-pattern 번역본](https://patterns-dev-kr.github.io/)
 <br/>
 
 ## 👨‍👨‍👧‍👦 도움을 주신 분들
