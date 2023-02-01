@@ -87,6 +87,15 @@
       "contributions": [
         "data"
       ]
+    },
+    {
+      "login": "tars-c",
+      "name": "타스씨",
+      "avatar_url": "https://avatars.githubusercontent.com/u/59531736?v=4",
+      "profile": "https://github.com/tars-c",
+      "contributions": [
+        "data"
+      ]
     }
   ],
   "projectName": "article",
