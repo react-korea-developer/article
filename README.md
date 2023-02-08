@@ -49,6 +49,13 @@
 - [AWS CloundFront - OAC 로 origin 보호하기](https://aws.amazon.com/ko/blogs/korea/amazon-cloudfront-introduces-origin-access-control-oac/)
 - [JS Design-pattern 번역본](https://patterns-dev-kr.github.io/)
 - [VS Code Extension: 순서번호 빠르게 만들기](https://marketplace.visualstudio.com/items?itemName=neptunedesign.vs-sequential-number)
+- [CSS 텍스트 반전 효과](https://studiomeal.com/archives/888)
+- [JS & Node Test best practices](https://github.com/goldbergyoni/javascript-testing-best-practices/blob/master/readme.kr.md)
+- [프론트엔드에서 의미있는 테스트 코드 작성하기](https://team.modusign.co.kr/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C%EC%97%90%EC%84%9C-%EC%9D%98%EB%AF%B8%EC%9E%88%EB%8A%94-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%BD%94%EB%93%9C-%EC%9E%91%EC%84%B1%ED%95%98%EA%B8%B0-4992409c7f2d)
+- [소프트웨어 디자인 패턴들](https://refactoring.guru/ko/design-patterns)
+- [연구 조사에 기반한 10가지 사용성에 관한 팁](https://www.webfx.com/blog/web-design/10-usability-tips-based-on-research-studies/)
+- [자바스크립트는 왜 프로토타입을 선택했을까?](https://medium.com/@limsungmook/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EB%8A%94-%EC%99%9C-%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85%EC%9D%84-%EC%84%A0%ED%83%9D%ED%96%88%EC%9D%84%EA%B9%8C-997f985adb42)
+- [MonoRepo란?](https://velog.io/@sms8377/DevOps-MonoRepo%EB%9E%80)
 <br/>
 
 ## 👨‍👨‍👧‍👦 도움을 주신 분들
