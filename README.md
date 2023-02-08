@@ -11,6 +11,7 @@
 <br/>
 
 ## ✋ 인사말
+
 > 출근길 ・ 퇴근길 ・ 점심시간 ・ 저녁시간  
 > 읽을 거리를 찾는 개발자 분들 함께 읽을 거리를 수집하고 공유해봅시다 🤟  
 > 리액트 및 리액트 네이티브에 관련된 유익한 양질의 자료를 공유해주세요!
@@ -18,23 +19,24 @@
 <br/>
 
 ## 🙋🏻‍♂️ 누구나 링크를 공유할 수 있습니다!
+
 > 공유하고 싶은 리액트 및 리액트 네이티브 관련 읽을 거리를 공유해주세요
 
-```방법 01```  추가하고 싶은 링크를 [하단의 공유 자료](https://github.com/react-korea-developer/article/edit/main/README.md#-%EA%B3%B5%EC%9C%A0-%EC%9E%90%EB%A3%8C)에 공유 후 PR  
-```방법 02```  [카카오 오픈 채팅방](https://open.kakao.com/o/gboLOUQb)에 링크 공유 후 태그(비번: "hello")
+`방법 01` 추가하고 싶은 링크를 [하단의 공유 자료](https://github.com/react-korea-developer/article/edit/main/README.md#-%EA%B3%B5%EC%9C%A0-%EC%9E%90%EB%A3%8C)에 공유 후 PR  
+`방법 02` [카카오 오픈 채팅방](https://open.kakao.com/o/gboLOUQb)에 링크 공유 후 태그(비번: "hello")
 
 <br/>
 
-## 👍🏻 다른 읽을 거리 저장소들 
+## 👍🏻 다른 읽을 거리 저장소들
 
-01. [{ 고퀄리티⚡개발 컨텐츠 모음 }](https://github.com/Integerous/goQuality-dev-contents/blob/master/README.md)
+1.  [{ 고퀄리티⚡개발 컨텐츠 모음 }](https://github.com/Integerous/goQuality-dev-contents/blob/master/README.md)
 
 <br/>
 
 ## 📃 읽을 거리를 여기에 공유해주세요
 
-- [React 공식 문서 Beta](https://beta.reactjs.org/)  
-- [묻기 위해 묻지 말고, 그냥 물어보세요](https://dontasktoask.com/ko/)  
+- [React 공식 문서 Beta](https://beta.reactjs.org/)
+- [묻기 위해 묻지 말고, 그냥 물어보세요](https://dontasktoask.com/ko/)
 - [자바스크립트 v8 엔진의 가비지 컬렉션 동작 방식](https://fe-developers.kakaoent.com/2022/220519-garbage-collection/)
 - [함수형 프로그래밍이 중요한 이유](https://parksb.github.io/papers-i-love/why-functional-programming-matters.html)
 - [지나가던 개발 zigae님 블로그 | React와 프론트엔드 개발에 관련된 블로그](https://www.zigae.com/)
@@ -56,7 +58,13 @@
 - [연구 조사에 기반한 10가지 사용성에 관한 팁](https://www.webfx.com/blog/web-design/10-usability-tips-based-on-research-studies/)
 - [자바스크립트는 왜 프로토타입을 선택했을까?](https://medium.com/@limsungmook/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EB%8A%94-%EC%99%9C-%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85%EC%9D%84-%EC%84%A0%ED%83%9D%ED%96%88%EC%9D%84%EA%B9%8C-997f985adb42)
 - [MonoRepo란?](https://velog.io/@sms8377/DevOps-MonoRepo%EB%9E%80)
-<br/>
+- [임용빈님 블로그 | React와 프론트엔드 개발, C 언어에 관련된 블로그](https://jungpaeng.tistory.com/)
+- [프로그래밍 예술가, DeKu | 풀스택 블로그](https://dev-yakuza.posstree.com/ko/)
+- [생새우 초밥집 | 수학, 데이터분석, 알고리즘, 머신러닝 등 프로그래밍 관련 블로그](https://freshrimpsushi.github.io/)
+- [DaleSeo님 블로그 | React와 프론트엔드 개발에 관련된 블로그](https://jungpaeng.tistory.com/)
+- [인프랩 기술블로그 | 인프런](https://tech.inflab.com/)
+- [김종현님 기술블로그 | Java와 DB, 백엔드 개발에 관련된 블로그](https://kim-jong-hyun.tistory.com/)
+  <br/>
 
 ## 👨‍👨‍👧‍👦 도움을 주신 분들
 
