@@ -36,39 +36,69 @@
 
 ## 📃 읽을 거리를 여기에 공유해주세요
 
+<hr/>
+
+**React 관련 글 모음**
+
 - [React 공식 문서 Beta](https://beta.reactjs.org/)
-- [묻기 위해 묻지 말고, 그냥 물어보세요](https://dontasktoask.com/ko/)
-- [자바스크립트 v8 엔진의 가비지 컬렉션 동작 방식](https://fe-developers.kakaoent.com/2022/220519-garbage-collection/)
-- [함수형 프로그래밍이 중요한 이유](https://parksb.github.io/papers-i-love/why-functional-programming-matters.html)
-- [지나가던 개발 zigae님 블로그 | React와 프론트엔드 개발에 관련된 블로그](https://www.zigae.com/)
-- [Bang9Dev 블로그 | React Native 관련된 블로그](https://velog.io/@bang9dev)
 - [react-query 시작부터 적용까지](https://saengmotmi.netlify.app/react/react-query/)
+- [React Query 개념 및 정리](https://kyounghwan01.github.io/blog/React/react-query/basic/#%E1%84%89%E1%85%A1%E1%84%8B%E1%85%AD%E1%86%BC%E1%84%92%E1%85%A1%E1%84%82%E1%85%B3%E1%86%AB-%E1%84%8B%E1%85%B5%E1%84%8B%E1%85%B2)
 - [컴포넌트를 잘 만드는 방법](https://ms3864.tistory.com/m/433)
 - [변경에 유연한 컴포넌트](https://jbee.io/web/components-should-be-flexible/)
-- [React Query 개념 및 정리](https://kyounghwan01.github.io/blog/React/react-query/basic/#%E1%84%89%E1%85%A1%E1%84%8B%E1%85%AD%E1%86%BC%E1%84%92%E1%85%A1%E1%84%82%E1%85%B3%E1%86%AB-%E1%84%8B%E1%85%B5%E1%84%8B%E1%85%B2)
 - [SWC 이용해서 React + Webpack 세팅해보기](https://helloinyong.tistory.com/347)
+
+<hr/>
+
+**HTML, CSS, Javascript**
+
 - [(번역) 레이아웃 알고리즘 이해하기](https://junghan92.medium.com/%EB%B2%88%EC%97%AD-%EB%A0%88%EC%9D%B4%EC%95%84%EC%9B%83-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-baed8b1eca5f)
+- [자바스크립트 v8 엔진의 가비지 컬렉션 동작 방식](https://fe-developers.kakaoent.com/2022/220519-garbage-collection/)
+- [JS Design-pattern 번역본](https://patterns-dev-kr.github.io/)
+- [JS & Node Test best practices](https://github.com/goldbergyoni/javascript-testing-best-practices/blob/master/readme.kr.md)
+- [자바스크립트는 왜 프로토타입을 선택했을까?](https://medium.com/@limsungmook/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EB%8A%94-%EC%99%9C-%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85%EC%9D%84-%EC%84%A0%ED%83%9D%ED%96%88%EC%9D%84%EA%B9%8C-997f985adb42)
+
+<hr/>
+
+**개발자 상식 모음**
+
+- [묻기 위해 묻지 말고, 그냥 물어보세요](https://dontasktoask.com/ko/)
+- [함수형 프로그래밍이 중요한 이유](https://parksb.github.io/papers-i-love/why-functional-programming-matters.html)
 - [악명 높은 CORS 개념 & 해결법 - 정리 끝판왕](https://inpa.tistory.com/entry/WEB-%F0%9F%93%9A-CORS-%F0%9F%92%AF-%EC%A0%95%EB%A6%AC-%ED%95%B4%EA%B2%B0-%EB%B0%A9%EB%B2%95-%F0%9F%91%8F)
 - [AWS CloundFront - OAC 로 origin 보호하기](https://aws.amazon.com/ko/blogs/korea/amazon-cloudfront-introduces-origin-access-control-oac/)
-- [JS Design-pattern 번역본](https://patterns-dev-kr.github.io/)
 - [VS Code Extension: 순서번호 빠르게 만들기](https://marketplace.visualstudio.com/items?itemName=neptunedesign.vs-sequential-number)
-- [CSS 텍스트 반전 효과](https://studiomeal.com/archives/888)
-- [JS & Node Test best practices](https://github.com/goldbergyoni/javascript-testing-best-practices/blob/master/readme.kr.md)
 - [프론트엔드에서 의미있는 테스트 코드 작성하기](https://team.modusign.co.kr/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C%EC%97%90%EC%84%9C-%EC%9D%98%EB%AF%B8%EC%9E%88%EB%8A%94-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%BD%94%EB%93%9C-%EC%9E%91%EC%84%B1%ED%95%98%EA%B8%B0-4992409c7f2d)
 - [소프트웨어 디자인 패턴들](https://refactoring.guru/ko/design-patterns)
 - [연구 조사에 기반한 10가지 사용성에 관한 팁](https://www.webfx.com/blog/web-design/10-usability-tips-based-on-research-studies/)
-- [자바스크립트는 왜 프로토타입을 선택했을까?](https://medium.com/@limsungmook/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EB%8A%94-%EC%99%9C-%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85%EC%9D%84-%EC%84%A0%ED%83%9D%ED%96%88%EC%9D%84%EA%B9%8C-997f985adb42)
 - [MonoRepo란?](https://velog.io/@sms8377/DevOps-MonoRepo%EB%9E%80)
-- [임용빈님 블로그 | React와 프론트엔드 개발, C 언어에 관련된 블로그](https://jungpaeng.tistory.com/)
-- [프로그래밍 예술가, DeKu | 풀스택 블로그](https://dev-yakuza.posstree.com/ko/)
-- [생새우 초밥집 | 수학, 데이터분석, 알고리즘, 머신러닝 등 프로그래밍 관련 블로그](https://freshrimpsushi.github.io/)
-- [DaleSeo님 블로그 | React와 프론트엔드 개발에 관련된 블로그](https://jungpaeng.tistory.com/)
-- [인프랩 기술블로그 | 인프런](https://tech.inflab.com/)
-- [김종현님 기술블로그 | Java와 DB, 백엔드 개발에 관련된 블로그](https://kim-jong-hyun.tistory.com/)
 - [oneook valog | 프론트엔드 개발자라면 반드시 알아두어야 할 32가지의 UI 요소 (번역)](https://velog.io/@oneook/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%9D%BC%EB%A9%B4-%EB%B0%98%EB%93%9C%EC%8B%9C-%EC%95%8C%EC%95%84%EB%91%90%EC%96%B4%EC%95%BC-%ED%95%A0-32%EA%B0%80%EC%A7%80%EC%9D%98-UI-%EC%9A%94%EC%86%8C-%EB%B2%88%EC%97%AD)
 - [Devtool로 확인하고 성능개선하기](https://all-dev-kang.tistory.com/entry/%EB%A6%AC%EC%95%A1%ED%8A%B8-Devtool%EB%A1%9C-%ED%99%95%EC%9D%B8%ED%95%98%EA%B3%A0-%EC%84%B1%EB%8A%A5%EA%B0%9C%EC%84%A0%ED%95%98%EA%B8%B0)
+
+<hr/>
+
+**React 개발자 블로그 모음**
+
+- [임용빈님 블로그 | React와 프론트엔드 개발, C 언어에 관련된 블로그](https://jungpaeng.tistory.com/)
+- [DaleSeo님 블로그 | React와 프론트엔드 개발에 관련된 블로그](https://jungpaeng.tistory.com/)
+- [지나가던 개발 zigae님 블로그 | React와 프론트엔드 개발에 관련된 블로그](https://www.zigae.com/)
+- [Bang9Dev 블로그 | React Native 관련된 블로그](https://velog.io/@bang9dev)
+- [프로그래밍 예술가, DeKu | 풀스택 블로그](https://dev-yakuza.posstree.com/ko/)
+
+<hr/>
+
+**개발자 블로그 모음**
+
+- [생새우 초밥집 | 수학, 데이터분석, 알고리즘, 머신러닝 등 프로그래밍 관련 블로그](https://freshrimpsushi.github.io/)
+- [인프랩 기술블로그 | 인프런](https://tech.inflab.com/)
+- [김종현님 기술블로그 | Java와 DB, 백엔드 개발에 관련된 블로그](https://kim-jong-hyun.tistory.com/)
 - [카카오FE 기술블로그 | ES2022 새로운 기능](https://fe-developers.kakaoent.com/2022/220728-es2022/)
-  <br/>
+
+<hr/>
+
+**유용한 기능**
+
+- [VS Code Extension: 순서번호 빠르게 만들기](https://marketplace.visualstudio.com/items?itemName=neptunedesign.vs-sequential-number)
+
+<hr/>
 
 ## 👨‍👨‍👧‍👦 도움을 주신 분들
 
