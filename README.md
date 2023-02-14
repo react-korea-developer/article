@@ -30,6 +30,7 @@
 ## 👍🏻 다른 읽을 거리 저장소들
 
 1.  [{ 고퀄리티⚡개발 컨텐츠 모음 }](https://github.com/Integerous/goQuality-dev-contents/blob/master/README.md)
+2.  [서핏 - 매일 성장하는 사람들의 커리어 플랫폼](https://www.surfit.io/explore/develop/react)
 
 <br/>
 
