@@ -123,6 +123,15 @@
       "contributions": [
         "data"
       ]
+    },
+    {
+      "login": "Sharlottes",
+      "name": "Sharlotte ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/60801210?v=4",
+      "profile": "https://sharjects-sharlottes.vercel.app/",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "projectName": "article",
