@@ -62,6 +62,7 @@
 - [로우 레벨로 살펴보는 Node.js 이벤트 루프](https://evan-moon.github.io/2019/08/01/nodejs-event-loop-workflow/)
 - [[번역] 자바스크립트 가비지 컬렉터 실험](https://velog.io/@surim014/Experiments-with-the-JavaScript-Garbage-Collector)
 - [well-known 심볼](https://github.com/yeonjuan/dev-blog/blob/master/JavaScript/well-known-symbols.md)
+- [(번역) HTML 이미지 최적화](https://velog.io/@lky5697/fast-images)
 
 <hr/>
 
