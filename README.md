@@ -49,6 +49,7 @@
 - [SWC 이용해서 React + Webpack 세팅해보기](https://helloinyong.tistory.com/347)
 - [Next.js SSG가 작동하는 방식](https://velog.io/@bokdol11859/%EB%8C%80%EB%B6%80%EB%B6%84%EC%9D%B4-%EB%AA%A8%EB%A5%B4%EB%8A%94-Next%EC%97%90%EC%84%9C-SSG%EA%B0%80-%EC%9E%91%EB%8F%99%ED%95%98%EB%8A%94-%EB%B0%A9%EC%8B%9D-%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81%EC%9D%84-%ED%86%B5%ED%95%B4-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%B5%9C%EC%A0%81%ED%99%94%ED%95%98%EA%B8%B0-2%ED%8E%B8)
 - [React로 결제 페이지 개발하기 (ft. 결제위젯)](https://velog.io/@tosspayments/React%EB%A1%9C-%EA%B2%B0%EC%A0%9C-%ED%8E%98%EC%9D%B4%EC%A7%80-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0-ft.-%EA%B2%B0%EC%A0%9C%EC%9C%84%EC%A0%AF)
+- [정말 리액트에서 useMemo를 사용해야 할까요? 알아봅시다.](https://github.com/yeonjuan/dev-blog/blob/master/JavaScript/should-you-really-use-usememo.md)
 <hr/>
 
 **HTML, CSS, Javascript**
@@ -59,6 +60,9 @@
 - [JS & Node Test best practices](https://github.com/goldbergyoni/javascript-testing-best-practices/blob/master/readme.kr.md)
 - [자바스크립트는 왜 프로토타입을 선택했을까?](https://medium.com/@limsungmook/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EB%8A%94-%EC%99%9C-%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85%EC%9D%84-%EC%84%A0%ED%83%9D%ED%96%88%EC%9D%84%EA%B9%8C-997f985adb42)
 - [로우 레벨로 살펴보는 Node.js 이벤트 루프](https://evan-moon.github.io/2019/08/01/nodejs-event-loop-workflow/)
+- [[번역] 자바스크립트 가비지 컬렉터 실험](https://velog.io/@surim014/Experiments-with-the-JavaScript-Garbage-Collector)
+- [well-known 심볼](https://github.com/yeonjuan/dev-blog/blob/master/JavaScript/well-known-symbols.md)
+- [(번역) HTML 이미지 최적화](https://velog.io/@lky5697/fast-images)
 
 <hr/>
 
