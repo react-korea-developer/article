@@ -133,6 +133,15 @@
         "doc",
         "data"
       ]
+    },
+    {
+      "login": "devDohyun",
+      "name": "Dohyun Ahn",
+      "avatar_url": "https://avatars.githubusercontent.com/u/40540101?v=4",
+      "profile": "http://hyun.pro",
+      "contributions": [
+        "data"
+      ]
     }
   ],
   "projectName": "article",
