@@ -80,7 +80,7 @@
 - [MonoRepo란?](https://velog.io/@sms8377/DevOps-MonoRepo%EB%9E%80)
 - [oneook valog | 프론트엔드 개발자라면 반드시 알아두어야 할 32가지의 UI 요소 (번역)](https://velog.io/@oneook/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%9D%BC%EB%A9%B4-%EB%B0%98%EB%93%9C%EC%8B%9C-%EC%95%8C%EC%95%84%EB%91%90%EC%96%B4%EC%95%BC-%ED%95%A0-32%EA%B0%80%EC%A7%80%EC%9D%98-UI-%EC%9A%94%EC%86%8C-%EB%B2%88%EC%97%AD)
 - [Devtool로 확인하고 성능개선하기](https://all-dev-kang.tistory.com/entry/%EB%A6%AC%EC%95%A1%ED%8A%B8-Devtool%EB%A1%9C-%ED%99%95%EC%9D%B8%ED%95%98%EA%B3%A0-%EC%84%B1%EB%8A%A5%EA%B0%9C%EC%84%A0%ED%95%98%EA%B8%B0)
-
+- [브랜치 전략 수립을 위한 전문가의 조언들](https://blog.hwahae.co.kr/all/tech/9507)
 <hr/>
 
 **React 개발자 블로그 모음**
