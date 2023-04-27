@@ -51,6 +51,7 @@
 - [React로 결제 페이지 개발하기 (ft. 결제위젯)](https://velog.io/@tosspayments/React%EB%A1%9C-%EA%B2%B0%EC%A0%9C-%ED%8E%98%EC%9D%B4%EC%A7%80-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0-ft.-%EA%B2%B0%EC%A0%9C%EC%9C%84%EC%A0%AF)
 - [정말 리액트에서 useMemo를 사용해야 할까요? 알아봅시다.](https://github.com/yeonjuan/dev-blog/blob/master/JavaScript/should-you-really-use-usememo.md)
 - [React-query 사용하는 이유, useInfiniteQuery 로 무한 스크롤 구현하기 (+ react-infinite-scroller)](https://velog.io/@leemember/React-query-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0-useInfiniteQuery-%EB%A1%9C-%EB%AC%B4%ED%95%9C-%EC%8A%A4%ED%81%AC%EB%A1%A4-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0-react-infinite-scroller)
+- [React 18: 리액트 서버 컴포넌트 준비하기](https://tech.kakaopay.com/post/react-server-components)
 <hr/>
 
 **HTML, CSS, Javascript**
