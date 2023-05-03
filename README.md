@@ -69,13 +69,12 @@
 
 <hr/>
 
-**개발자 상식 모음**
+**다른 읽을 거리**
 
 - [묻기 위해 묻지 말고, 그냥 물어보세요](https://dontasktoask.com/ko/)
 - [함수형 프로그래밍이 중요한 이유](https://parksb.github.io/papers-i-love/why-functional-programming-matters.html)
 - [악명 높은 CORS 개념 & 해결법 - 정리 끝판왕](https://inpa.tistory.com/entry/WEB-%F0%9F%93%9A-CORS-%F0%9F%92%AF-%EC%A0%95%EB%A6%AC-%ED%95%B4%EA%B2%B0-%EB%B0%A9%EB%B2%95-%F0%9F%91%8F)
 - [AWS CloundFront - OAC 로 origin 보호하기](https://aws.amazon.com/ko/blogs/korea/amazon-cloudfront-introduces-origin-access-control-oac/)
-- [VS Code Extension: 순서번호 빠르게 만들기](https://marketplace.visualstudio.com/items?itemName=neptunedesign.vs-sequential-number)
 - [프론트엔드에서 의미있는 테스트 코드 작성하기](https://team.modusign.co.kr/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C%EC%97%90%EC%84%9C-%EC%9D%98%EB%AF%B8%EC%9E%88%EB%8A%94-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%BD%94%EB%93%9C-%EC%9E%91%EC%84%B1%ED%95%98%EA%B8%B0-4992409c7f2d)
 - [소프트웨어 디자인 패턴들](https://refactoring.guru/ko/design-patterns)
 - [연구 조사에 기반한 10가지 사용성에 관한 팁](https://www.webfx.com/blog/web-design/10-usability-tips-based-on-research-studies/)
