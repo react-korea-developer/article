@@ -66,6 +66,7 @@
 - [[번역] 자바스크립트 가비지 컬렉터 실험](https://velog.io/@surim014/Experiments-with-the-JavaScript-Garbage-Collector)
 - [well-known 심볼](https://github.com/yeonjuan/dev-blog/blob/master/JavaScript/well-known-symbols.md)
 - [(번역) HTML 이미지 최적화](https://velog.io/@lky5697/fast-images)
+- [Jest로 기본적인 테스트 작성하기](https://www.daleseo.com/jest-basic/#tobetruthy-tobefalsy)
 
 <hr/>
 
