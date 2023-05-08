@@ -53,6 +53,7 @@
 - [React-query 사용하는 이유, useInfiniteQuery 로 무한 스크롤 구현하기 (+ react-infinite-scroller)](https://velog.io/@leemember/React-query-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0-useInfiniteQuery-%EB%A1%9C-%EB%AC%B4%ED%95%9C-%EC%8A%A4%ED%81%AC%EB%A1%A4-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0-react-infinite-scroller)
 - [React 18: 리액트 서버 컴포넌트 준비하기](https://tech.kakaopay.com/post/react-server-components)
 - [React에서 Canvas API로 애니메이션 구현하기](https://blog.dalgu.app/dev/1)
+- [react-testing-library 를 사용한 리액트 컴포넌트 테스트](https://velog.io/@velopert/react-testing-library)
 <hr/>
 
 **HTML, CSS, Javascript**
