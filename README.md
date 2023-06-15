@@ -55,7 +55,6 @@
 - [React에서 Canvas API로 애니메이션 구현하기](https://blog.dalgu.app/dev/1)
 - [react-testing-library 를 사용한 리액트 컴포넌트 테스트](https://velog.io/@velopert/react-testing-library)
 - [(번역) Next.js의 app 디렉터리 아키텍처 이해하기](https://junghan92.medium.com/%EB%B2%88%EC%97%AD-next-js%EC%9D%98-app-%EB%94%94%EB%A0%89%ED%84%B0%EB%A6%AC-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-28672980d765)
-- [프론트엔드 성능 체크리스트](https://github.com/parksb/Front-End-Performance-Checklist)
 
 <hr/>
 
@@ -88,6 +87,8 @@
 - [Devtool로 확인하고 성능개선하기](https://all-dev-kang.tistory.com/entry/%EB%A6%AC%EC%95%A1%ED%8A%B8-Devtool%EB%A1%9C-%ED%99%95%EC%9D%B8%ED%95%98%EA%B3%A0-%EC%84%B1%EB%8A%A5%EA%B0%9C%EC%84%A0%ED%95%98%EA%B8%B0)
 - [브랜치 전략 수립을 위한 전문가의 조언들](https://blog.hwahae.co.kr/all/tech/9507)
 - [Webpack Module Federation 도입 전에 알아야 할 것들](https://fe-developers.kakaoent.com/2022/220623-webpack-module-federation/)
+- [프론트엔드 성능 체크리스트](https://github.com/parksb/Front-End-Performance-Checklist)
+
 <hr/>
 
 **React 개발자 블로그 모음**
