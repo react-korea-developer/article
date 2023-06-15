@@ -55,6 +55,7 @@
 - [React에서 Canvas API로 애니메이션 구현하기](https://blog.dalgu.app/dev/1)
 - [react-testing-library 를 사용한 리액트 컴포넌트 테스트](https://velog.io/@velopert/react-testing-library)
 - [(번역) Next.js의 app 디렉터리 아키텍처 이해하기](https://junghan92.medium.com/%EB%B2%88%EC%97%AD-next-js%EC%9D%98-app-%EB%94%94%EB%A0%89%ED%84%B0%EB%A6%AC-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-28672980d765)
+- [프론트엔드 성능 체크리스트](https://github.com/parksb/Front-End-Performance-Checklist)
 
 <hr/>
 
