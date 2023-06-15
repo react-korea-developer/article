@@ -87,6 +87,8 @@
 - [Devtool로 확인하고 성능개선하기](https://all-dev-kang.tistory.com/entry/%EB%A6%AC%EC%95%A1%ED%8A%B8-Devtool%EB%A1%9C-%ED%99%95%EC%9D%B8%ED%95%98%EA%B3%A0-%EC%84%B1%EB%8A%A5%EA%B0%9C%EC%84%A0%ED%95%98%EA%B8%B0)
 - [브랜치 전략 수립을 위한 전문가의 조언들](https://blog.hwahae.co.kr/all/tech/9507)
 - [Webpack Module Federation 도입 전에 알아야 할 것들](https://fe-developers.kakaoent.com/2022/220623-webpack-module-federation/)
+- [프론트엔드 성능 체크리스트](https://github.com/parksb/Front-End-Performance-Checklist)
+
 <hr/>
 
 **React 개발자 블로그 모음**
