@@ -142,11 +142,21 @@
       "contributions": [
         "data"
       ]
+    },
+    {
+      "login": "ssi02014",
+      "name": "Gromit (전민재)",
+      "avatar_url": "https://avatars.githubusercontent.com/u/64779472?v=4",
+      "profile": "https://blog.naver.com/ssi02014",
+      "contributions": [
+        "data"
+      ]
     }
   ],
   "projectName": "article",
   "projectOwner": "react-korea-developer",
   "repoType": "github",
   "repoHost": "https://github.com",
-  "commitConvention": "angular"
+  "commitConvention": "angular",
+  "commitType": "docs"
 }
