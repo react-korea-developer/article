@@ -108,6 +108,7 @@
 - [인프랩 기술블로그 | 인프런](https://tech.inflab.com/)
 - [김종현님 기술블로그 | Java와 DB, 백엔드 개발에 관련된 블로그](https://kim-jong-hyun.tistory.com/)
 - [카카오FE 기술블로그 | ES2022 새로운 기능](https://fe-developers.kakaoent.com/2022/220728-es2022/)
+- [Stark Studio | 개발자 공부법 및 React](https://medium.com/@dododot-stark))
 
 <hr/>
 
