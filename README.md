@@ -57,6 +57,7 @@
 - [(번역) Next.js의 app 디렉터리 아키텍처 이해하기](https://junghan92.medium.com/%EB%B2%88%EC%97%AD-next-js%EC%9D%98-app-%EB%94%94%EB%A0%89%ED%84%B0%EB%A6%AC-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-28672980d765)
 - [react-query-tutorial 저장소](https://github.com/ssi02014/react-query-tutorial)
 - [리액트 테스트 관련 참고 문서 저장소](https://github.com/ssi02014/react-test-reference-documentation)
+- [Next.js 13.2버젼에 Next-auth 구현하기(+ 네이버 소셜 로그인)](https://velog.io/@s_soo100/Next.js-13Next.js-13.2%EB%B2%84%EC%A0%BC%EC%97%90-Next-auth-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0)
 
 <hr/>
 
