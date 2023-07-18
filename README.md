@@ -149,6 +149,7 @@
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="http://hyun.pro"><img src="https://avatars.githubusercontent.com/u/40540101?v=4?s=100" width="100px;" alt="Dohyun Ahn"/><br /><sub><b>Dohyun Ahn</b></sub></a><br /><a href="#data-devDohyun" title="Data">🔣</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://blog.naver.com/ssi02014"><img src="https://avatars.githubusercontent.com/u/64779472?v=4?s=100" width="100px;" alt="Gromit (전민재)"/><br /><sub><b>Gromit (전민재)</b></sub></a><br /><a href="#data-ssi02014" title="Data">🔣</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://www.zigae.com/"><img src="https://avatars.githubusercontent.com/u/39829378?v=4?s=100" width="100px;" alt="정건우(Frontend)"/><br /><sub><b>정건우(Frontend)</b></sub></a><br /><a href="#data-zi-gae" title="Data">🔣</a></td>
     </tr>
   </tbody>
 </table>
