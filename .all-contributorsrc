@@ -160,6 +160,15 @@
       "contributions": [
         "data"
       ]
+    },
+    {
+      "login": "myeongjae-kim",
+      "name": "Myeongjae Kim",
+      "avatar_url": "https://avatars.githubusercontent.com/u/46627301?v=4",
+      "profile": "https://myeongjae.kim",
+      "contributions": [
+        "data"
+      ]
     }
   ],
   "projectName": "article",
