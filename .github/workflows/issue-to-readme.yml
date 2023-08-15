@@ -1,0 +1,16 @@
+name: Update readme with cron from issue
+on:
+  schedule:
+    - cron: '0 0 * * 1'
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Update
+        uses: bang9/issue-to-readme@0.0.5
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          owner_only: true
