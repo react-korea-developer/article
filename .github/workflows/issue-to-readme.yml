@@ -13,4 +13,3 @@ jobs:
         uses: bang9/issue-to-readme@0.0.5
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          owner_only: true
