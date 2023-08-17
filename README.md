@@ -1,3 +1,6 @@
+## 새로 등록된 글
+- [리액트 톺아보기](https://goidle.github.io/react/in-depth-react-preview)
+
 # <리액트 개발자 읽을 거리 리스트/>
 
 <br/>
