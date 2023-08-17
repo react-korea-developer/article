@@ -10,6 +10,6 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Update
-        uses: bang9/issue-to-readme@0.0.5
+        uses: bang9/issue-to-readme@0.0.7
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
