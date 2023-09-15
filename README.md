@@ -102,7 +102,7 @@
 **React 개발자 블로그 모음**
 
 - [임용빈님 블로그 | React와 프론트엔드 개발, C 언어에 관련된 블로그](https://jungpaeng.tistory.com/)
-- [DaleSeo님 블로그 | React와 프론트엔드 개발에 관련된 블로그](https://jungpaeng.tistory.com/)
+- [DaleSeo님 블로그 | React와 프론트엔드 개발에 관련된 블로그](https://www.daleseo.com)
 - [지나가던 개발 zigae님 블로그 | React와 프론트엔드 개발에 관련된 블로그](https://www.zigae.com/)
 - [Bang9Dev 블로그 | React Native 관련된 블로그](https://velog.io/@bang9dev)
 - [프로그래밍 예술가, DeKu | 풀스택 블로그](https://dev-yakuza.posstree.com/ko/)
