@@ -159,6 +159,7 @@
       <td align="center" valign="top" width="14.28%"><a href="https://www.zigae.com/"><img src="https://avatars.githubusercontent.com/u/39829378?v=4?s=100" width="100px;" alt="정건우(Frontend)"/><br /><sub><b>정건우(Frontend)</b></sub></a><br /><a href="#data-zi-gae" title="Data">🔣</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://myeongjae.kim"><img src="https://avatars.githubusercontent.com/u/46627301?v=4?s=100" width="100px;" alt="Myeongjae Kim"/><br /><sub><b>Myeongjae Kim</b></sub></a><br /><a href="#data-myeongjae-kim" title="Data">🔣</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/sunrabbit123"><img src="https://avatars.githubusercontent.com/u/64676070?v=4?s=100" width="100px;" alt="오병진"/><br /><sub><b>오병진</b></sub></a><br /><a href="#data-sunrabbit123" title="Data">🔣</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="http://ho991217.notion.site"><img src="https://avatars.githubusercontent.com/u/84632077?v=4?s=100" width="100px;" alt="이호연"/><br /><sub><b>이호연</b></sub></a><br /><a href="#data-ho991217" title="Data">🔣</a></td>
     </tr>
   </tbody>
 </table>
