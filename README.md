@@ -63,6 +63,7 @@
 - [Next.js 13.2버젼에 Next-auth 구현하기(+ 네이버 소셜 로그인)](https://velog.io/@s_soo100/Next.js-13Next.js-13.2%EB%B2%84%EC%A0%BC%EC%97%90-Next-auth-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0)
 - [react 중첩 컴포넌트 검사](https://www.zigae.com/react-nested-components)
 - [Next.js v13 App Router로 제품 만들기: fetch를 다루는 기술](https://velog.io/@myeongjae-kim/Next.js-v13-App-Router로-제품-만들기-fetch를-다루는-기술) 
+- [React 파이버 아키텍처 분석](https://d2.naver.com/helloworld/2690975)
 
 <hr/>
 
