@@ -35,6 +35,7 @@
 1.  [{ 고퀄리티⚡개발 컨텐츠 모음 }](https://github.com/Integerous/goQuality-dev-contents/blob/master/README.md)
 2.  [서핏 - 매일 성장하는 사람들의 커리어 플랫폼](https://www.surfit.io/explore/develop/react)
 3.  [일일일(ONEONEONE) - 일하는 모든 순간들을 더 효율적으로](https://oneoneone.kr)
+4.  [네이버 - FE 뉴스](https://github.com/naver/fe-news/tree/master)
 
 <br/>
 
