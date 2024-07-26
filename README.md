@@ -36,8 +36,8 @@
 2.  [서핏 - 매일 성장하는 사람들의 커리어 플랫폼](https://www.surfit.io/explore/develop/react)
 3.  [일일일(ONEONEONE) - 일하는 모든 순간들을 더 효율적으로](https://oneoneone.kr)
 4.  [네이버 - FE 뉴스](https://github.com/naver/fe-news/tree/master)
-
-<br/>
+5.  [긱뉴스 - 개발자들에게 유익한 글들 모음](https://news.hada.io/)
+    <br/>
 
 ## 📃 읽을 거리를 여기에 공유해주세요
 
