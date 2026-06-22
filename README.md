@@ -65,6 +65,7 @@
 - [react 중첩 컴포넌트 검사](https://www.zigae.com/react-nested-components)
 - [Next.js v13 App Router로 제품 만들기: fetch를 다루는 기술](https://velog.io/@myeongjae-kim/Next.js-v13-App-Router로-제품-만들기-fetch를-다루는-기술) 
 - [React 파이버 아키텍처 분석](https://d2.naver.com/helloworld/2690975)
+- [한국어 서비스를 만드는데, 왜 디자인 시스템은 영어로 만든 걸 써야 할까요?](https://www.linkedin.com/posts/github-dalestudydaleui-%EB%94%94%EC%9E%90%EC%9D%B8-%EC%8B%9C%EC%8A%A4%ED%85%9C-share-7474569467503501312-44t1/)
 
 <hr/>
 
